@@ -1,3 +1,2 @@
 # git_test
-testing, for odinproject
-do something
+git review for odin project. for practice.
